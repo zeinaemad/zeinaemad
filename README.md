@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zeina Emad </h1>
+<h1 align="center">Hi 👋, I'm Zeina </h1>
 <h3 align="center">A passionate Frontend Developer and AI/ML Engineer</h3>
 
 <p align="left">
