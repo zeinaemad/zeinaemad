@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zeina </h1>
-<h3 align="center">A passionate Frontend Developer and AI/ML Engineer</h3>
+<h3 align="center">Frontend Developer and AI/ML Engineer</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=zeinaemad&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
