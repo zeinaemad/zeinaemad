@@ -126,8 +126,4 @@
 
 ---
 
-### Fun Fact 🌟
-<div align="center">
-  <img src="https://media.giphy.com/media/QXfnudE0ikEFOekxsh/giphy.gif" width="300" />
-  <p>"Programming is thinking, not typing."</p>
-</div>
+
