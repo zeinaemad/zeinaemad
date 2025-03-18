@@ -12,7 +12,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=500&color=0E75B6&center=true&vCenter=true&width=600&lines=Frontend+Developer;AI+%26+Machine+Learning+Engineer;Problem+Solver+%26+Innovator" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=500&color=0E75B6&center=true&vCenter=true&width=600&lines=Frontend+Developer;AI+%26+Machine+Learning+Engineer;Problem+Solver+%26+Innovator+26%+Software+Engineer" alt="Typing Animation" />
 </div>
 
 ---
